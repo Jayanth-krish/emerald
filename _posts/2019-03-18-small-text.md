@@ -6,7 +6,7 @@ HipHop: Reactive Web programming
 
 
 Hiphop.js is a [Hop.js](http://hop-dev.inria.fr) DSL for
-orchestrating web applications.
+orchestrating web and IoT applications, which is inspired by Esterel.
 
 
 ```javascript
