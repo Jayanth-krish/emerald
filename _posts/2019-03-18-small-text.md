@@ -5,7 +5,7 @@ HipHop: Reactive Web programming
 ================================
 
 
-__Hiphop.js__ is a [Hop.js](http://hop-dev.inria.fr) DSL for
+Hiphop.js is a [Hop.js](http://hop-dev.inria.fr) DSL for
 orchestrating web applications.
 
 
